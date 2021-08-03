@@ -27,3 +27,14 @@ Let's Check
 # Support Platforms
 - [x] **Termux**
 - [x] **Linux**
+
+
+
+***
+# Be careful
+- It's just for educational
+- I will not reaponsable about any essue.
+
+***
+
+# Thank You
