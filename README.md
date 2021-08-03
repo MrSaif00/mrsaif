@@ -33,7 +33,7 @@ Let's Check
 ***
 # Be careful
 - It's just for educational
-- I will not reaponsable about any essue.
+- I will not reaponsable about any issue.
 
 ***
 
