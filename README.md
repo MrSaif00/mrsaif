@@ -5,6 +5,8 @@ Let's Check
 
 ***
 
+
+
 # **For Install**
 - $ apt update
 - $ apt upgrade
@@ -14,4 +16,14 @@ Let's Check
 - $ git clone https://github.com/MrSaif00/mrsaif.git
 - $ pip install requests
 - $ pip install mechanize
-- $
+- $ ls
+- $ cd mrsaif
+- $ ls
+- $ python mrsaif.py
+
+
+
+***
+# Support Platforms
+- [x] **Termux**
+- [x] **Linux**
