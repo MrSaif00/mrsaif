@@ -30,7 +30,6 @@ Let's Check
 
 # Watch Video
 
-
 https://user-images.githubusercontent.com/88357430/128097391-f2c051bc-0a97-4ab7-82b2-0bff8bf5cb2a.mp4
 
 
